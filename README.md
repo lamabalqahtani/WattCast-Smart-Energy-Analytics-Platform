@@ -7,7 +7,7 @@ A web application that visualizes the relationship between temperature and elect
 ![Welcome Screen](WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM.jpeg)
 
 ### City Selection & Quick Weather/Energy Overview
-![City Selection](WhatsApp%20Image%202026-07-13%20at%203.38.06%20AM.jpg)
+![City Selection](WhatsApp%20Image%202026-07-13%20at%203.38.06%20AM.jpeg)
 
 ### Historical Consumption Trends Dashboard
 ![Historical Trends](WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(1).jpeg)
