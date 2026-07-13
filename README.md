@@ -4,31 +4,31 @@ A web application that visualizes the relationship between temperature and elect
 ## Project Screenshots
 
 ### Landing Page - Welcome Screen
-![Welcome Screen](WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM.jpeg)
+<img src="images/WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM.jpeg" alt="Welcome Screen" width="100%">
 
 ### City Selection & Quick Weather/Energy Overview
-![City Selection](WhatsApp%20Image%202026-07-13%20at%203.38.06%20AM.jpeg)
+<img src="images/WhatsApp%20Image%202026-07-13%20at%203.38.06%20AM.jpeg" alt="City Selection" width="100%">
 
 ### Historical Consumption Trends Dashboard
-![Historical Trends](WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(1).jpeg)
+<img src="images/WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(1).jpeg" alt="Historical Trends" width="100%">
 
 ### Cross-City Electricity Usage Comparison
-![City Comparison](WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(2).jpeg)
+<img src="images/WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(2).jpeg" alt="City Comparison" width="100%">
 
 ### Temperature vs. Electricity Consumption Analysis (Scatter Plot)
-![Scatter Plot Analysis](WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(3).jpeg)
+<img src="images/WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(3).jpeg" alt="Scatter Plot Analysis" width="100%">
 
 ### Peak Demand Days Identification
-![Peak Demand](WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(4).jpeg)
+<img src="images/WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(4).jpeg" alt="Peak Demand" width="100%">
 
 ### Future Forecast Dashboard (Fuel, Cost, & Emissions Predictions)
-![Future Forecast](WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(5).jpeg)
+<img src="images/WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(5).jpeg" alt="Future Forecast" width="100%">
 
 ### Forecast Breakdown & Schedule Charts
-![Forecast Charts](WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(6).jpeg)
+<img src="images/WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(6).jpeg" alt="Forecast Charts" width="100%">
 
 ### Geospatial Electricity Forecast Map (Saudi Arabia Cities)
-![Forecast Map](WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(7).jpeg)
+<img src="images/WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(7).jpeg" alt="Forecast Map" width="100%">
 
 ### My Reports - Documents Management & Classification System
-![Reports Management](WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(8).jpeg)
+<img src="images/WhatsApp%20Image%202026-07-13%20at%203.38.05%20AM%20(8).jpeg" alt="Reports Management" width="100%">
